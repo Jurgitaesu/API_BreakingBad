@@ -1,0 +1,48 @@
+/*********GENERAL***********/
+
+* {
+    font-family: 'Lato';
+}
+
+
+/*********HEADER***********/
+
+.jumbotron {
+    background-image: url(../IMG/Breaking-Bad-Logo.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 35em;
+    object-fit: cover;
+}
+
+
+/***********MAIN************/
+
+.line {
+    border: 1px solid;
+    border-color: #578906;
+    background-color: #578906;
+    height: 7px;
+    width: 800px;
+    margin: 0 auto;
+}
+
+.group-color {
+    background-color: #578906 !important;
+    border-color: #578906;
+}
+
+img {
+    height: 33em;
+    object-fit: cover;
+}
+
+/**********FOOTER***********/
+
+.footer-img {
+    background-image: url(../IMG/Breaking-Bad-Logo.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 5em;
+}
